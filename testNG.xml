@@ -4,6 +4,8 @@
     <test name="API">
         <classes>
             <class name="GET"></class>
+            <class name="POST"></class>
+            <class name="PUT"></class>
         </classes>
     </test>
 </suite>
